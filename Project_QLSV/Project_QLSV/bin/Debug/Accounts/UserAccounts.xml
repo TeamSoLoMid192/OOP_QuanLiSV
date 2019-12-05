@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Account>
+    <UserID>18110123</UserID>
+    <UserName>khang</UserName>
+    <Password>1111</Password>
+  </Account>
+  <Account>
+    <UserID>18110234</UserID>
+    <UserName>long</UserName>
+    <Password>2222</Password>
+  </Account>
+  <Account>
+    <UserID>11110000</UserID>
+    <UserName>IU</UserName>
+    <Password>0000</Password>
+  </Account>
+  <Account>
+    <UserID>1811012</UserID>
+    <UserName>khang1</UserName>
+    <Password>1</Password>
+  </Account>
+</Items>

@@ -1,0 +1,14 @@
+F:\Code VS\Project_QLSV\Project_QLSV\bin\Debug\Project_QLSV.exe.config
+F:\Code VS\Project_QLSV\Project_QLSV\bin\Debug\Project_QLSV.exe
+F:\Code VS\Project_QLSV\Project_QLSV\bin\Debug\Project_QLSV.pdb
+F:\Code VS\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.csprojAssemblyReference.cache
+F:\Code VS\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.Form1.resources
+F:\Code VS\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.Properties.Resources.resources
+F:\Code VS\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.csproj.GenerateResource.cache
+F:\Code VS\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.exe
+F:\Code VS\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.pdb
+F:\Code VS\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.RegisterForm.resources
+F:\Code VS\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.EditUserDataForm.resources
+F:\Code VS\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.EditMyInfoForm.resources
+F:\Code VS\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.AddContactForm.resources
+F:\Code VS\Project_QLSV\Project_QLSV\obj\Debug\Project_QLSV.EditContactForm.resources

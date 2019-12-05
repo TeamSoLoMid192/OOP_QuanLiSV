@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Contact>
+    <UserID>18110123</UserID>
+    <Group>League of Legends</Group>
+    <Email>aa@gmail.com</Email>
+    <Phone>0987654321</Phone>
+    <GroupID>125</GroupID>
+    <Address>Yasuo st, Distric 12, HCM city</Address>
+  </Contact>
+  <Contact>
+    <UserID>11110000</UserID>
+    <Group>No Game no life</Group>
+    <Email>LeeJiEun@gmail.com</Email>
+    <Phone>0981234567</Phone>
+    <GroupID>001</GroupID>
+    <Address>Seoul, Korea</Address>
+  </Contact>
+  <Contact>
+    <UserID>1811012</UserID>
+    <Group>No Game no life</Group>
+    <Email>yasuo@gmail.com</Email>
+    <Phone>0111111111</Phone>
+    <GroupID>123</GroupID>
+    <Address>khong thich ghi</Address>
+  </Contact>
+</Items>

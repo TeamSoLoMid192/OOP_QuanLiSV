@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+  <Student>
+    <UserID>18110123</UserID>
+    <FirstName>Khang</FirstName>
+    <LastName>Nguyen</LastName>
+    <BirthDate>12/11/2000</BirthDate>
+    <Gender>Female</Gender>
+    <Picture>Students/StudentsPictures/18110123.jpg</Picture>
+  </Student>
+  <Student>
+    <UserID>18110234</UserID>
+    <FirstName>Long</FirstName>
+    <LastName>Nguyễn</LastName>
+    <BirthDate></BirthDate>
+    <Gender></Gender>
+    <Picture>Students/StudentsPictures/18110234.jpg</Picture>
+  </Student>
+  <Student>
+    <UserID>11110000</UserID>
+    <FirstName>Ji-eun</FirstName>
+    <LastName>Lee</LastName>
+    <BirthDate></BirthDate>
+    <Gender></Gender>
+    <Picture>Students/StudentsPictures/11110000.jpg</Picture>
+  </Student>
+  <Student>
+    <UserID>1811012</UserID>
+    <FirstName>adsfa</FirstName>
+    <LastName>asdfa</LastName>
+    <BirthDate></BirthDate>
+    <Gender></Gender>
+    <Picture>Students/StudentsPictures/1811012.jpg</Picture>
+  </Student>
+</Items>
